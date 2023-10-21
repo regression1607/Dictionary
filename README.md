@@ -3,30 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dictionary Project README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            font-size: 24px;
-        }
-        p {
-            font-size: 16px;
-            line-height: 1.5;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+
 </head>
 <body>
-    <h1>Dictionary Project README</h1>
+    <h1>Dictionary Web</h1>
     <p>This is a dictionary project created using HTML, CSS, JavaScript, and the Distanary API. You can try it by clicking <a href="http://dictionary.regression1607.repl.co" target="_blank">here</a>.</p>
 <h2>Project Features</h2>
     <ul>
